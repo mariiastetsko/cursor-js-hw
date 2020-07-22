@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.list {
+    display: flexbox;
+}
+
+li, a {
+    text-decoration: none;
+    padding: 30px 70px;
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+}

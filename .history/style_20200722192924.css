@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 30px;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.list {
+    display: flexbox;
+    justify-content: space-evenly;
+}
+
+li, a {
+    text-decoration: none;
+    padding: 30px 20px;
+    margin: 50px 20px;
+}
+
+h1 {
+    text-align: center;
+}
